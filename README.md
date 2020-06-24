@@ -30,9 +30,7 @@ Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
 If you need help installing: https://discord.gg/eX9GXWN
 
 # Author 
-Discord : WayZe#0001
-Youtube : WayZe
-Twitter : @WayZeTV
+Discord : WayZe#0001 | Youtube : WayZe | Twitter : @WayZeTV
 
 ### License
 wz-mecanoshop - RageUI Menu
