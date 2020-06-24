@@ -6,4 +6,9 @@ Le nom de la ressource n'est pas modifiable !
 
 # Ressource requise
 
-RESSOURCE REQUISE : esx_mecanojob
+esx_mecanojob
+
+# Auteur 
+Discord : WayZe#0001
+Youtube : WayZe
+Twitter : @WayZeTV
