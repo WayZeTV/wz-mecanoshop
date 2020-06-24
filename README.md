@@ -15,6 +15,16 @@ The name of the resource cannot be changed!
 
 - [esx_mechanicjob](https://github.com/ESX-Org/esx_mechanicjob) 
 
+# Installation
+- Import `wz-mecanoshop` in your server base
+- Add this in your `server.cfg`:
+
+```
+start wz-mecanoshop
+```
+Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
+If you need help installing: https://discord.gg/eX9GXWN
+
 # Author 
 Discord : WayZe#0001
 Youtube : WayZe
